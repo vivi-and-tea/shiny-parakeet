@@ -59,6 +59,30 @@ export default function Home() {
           >
             ⏰ Timeout Demo (Random)
           </a>
+          <a 
+            href="/seo-test" 
+            className="bg-purple-500 text-white px-4 py-2 rounded hover:bg-yellow-600 text-center"
+          >
+            SEO Test Example
+          </a>
+          <a 
+            href="/performance" 
+            className="bg-gray-500 text-white px-4 py-2 rounded hover:bg-yellow-600 text-center"
+          >
+            Performance
+          </a>
+          <a 
+            href="/feedback" 
+            className="bg-teal-500 text-white px-4 py-2 rounded hover:bg-yellow-600 text-center"
+          >
+            Feedback
+          </a>
+          <a 
+            href="/error-demo" 
+            className="bg-pink-500 text-white px-4 py-2 rounded hover:bg-yellow-600 text-center"
+          >
+            Error Demo
+          </a>
         </div>
       </div>
     </div>
